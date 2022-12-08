@@ -1,0 +1,12 @@
+field name,field description,example,additional information,
+urban_grower,Name of the Grow Pittsburgh garden,The Octopus Garden,,
+grower_id,Unique ID number for the garden,738,This is being used as the primary key for this table.,
+category,Type of garden,community-garden,"This field may have multiple values in a given row. In such a case, the values are separated by a ""|"" character, like this: allegheny-grows-site|sustainability-fund-site.""
+url,URL that links to a page describing the garden on the Grow Pittsburgh site,https://www.growpittsburgh.org/directory/garden/the-octopus-garden,
+street_address,House number and street where the garden is located,133 S. Aiken Avenue,A few addresses are unkown"," though all gardens currently have listed geocoordinates."""
+city,City/municipality/township where the garden is located,Pittsburgh,,
+state,State where the garden is located,Pennsylvania,,
+zip_code,ZIP Code for the location of the garden,15206,,
+country,Country where the garden is located,US,,
+latitude,Latitude of the garden's location,40.463591,,
+longiitude,Longitude of the garden's location,-79.936771,,
