@@ -1,6 +1,5 @@
 
-
-![alt text](https://github.com/mattpuchalski/garden/images/DALLE-2-Farmer-Matt.png "8-bit Me")
+![alt text](https://github.com/mattpuchalski/garden/blob/master/images/DALLE-2-Farmer-Matt.png "8-bit Me")
 
 # Welcome to my plant-based tracker!
 
