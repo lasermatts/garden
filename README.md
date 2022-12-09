@@ -1,3 +1,6 @@
+
+![alt text](https://github.com/mattpuchalski/garden/blob/master/images/DALLE-2-Farmer-Matt.png "8-bit Me")
+
 # Welcome to my plant-based tracker!
 
 ## I'm a big fan of spreadsheets for marking out where I want to put all of my plants
