@@ -11,7 +11,7 @@ I'm going to upload my historical trackers here, and I've also been tinkering wi
 ## Our story so far
 :potted_plant: :potted_plant: :potted_plant: :potted_plant: :potted_plant:
 
-Since the pandemic I've been using spreadsheets to track my garden. It's mostly a rectangle and most of my useable yard is North-West facing. I've been lucky in being able to grow all kinds of funky fruits and veg in the yard
+Since the pandemic I've been using spreadsheets to track my garden. It's mostly a rectangle and most of my useable yard is South-West facing. I've been lucky in being able to grow all kinds of funky fruits and veg in the yard
 
 :melon: :tomato: :carrot: :hot_pepper: :broccoli: :eggplant:
 
