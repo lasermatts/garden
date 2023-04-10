@@ -1,4 +1,6 @@
-## OUTLINE
+# OUTLINE
+
+## Total Tools: 15 (really probably 14)
 
 ### Tools
 
