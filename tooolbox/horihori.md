@@ -1,0 +1,9 @@
+- Utility, simplicity, compaction. Tentents of the urban gardener. One tool for everything
+- Bulbs, harvesting veggies
+- Clip to my coveralls. Coveralls from Salvation Army in college.
+- Clay soil cutting
+- hardest thing is with the rocks - rake and a hori-hori take it all
+- "hori-hori" is the onomatopoeia for a digging sound. The tool itself is commonly referred to in Japan as a "leisure knife"
+- soil kit -- 5% organic matter at the start
+- slicing the grass to create a bed -- non-native grasses that turned to native plants. Blue lobelia, etc.
+- cleaning brings everything back to where it begins. reflection. shining on the pegboard.
