@@ -1,0 +1,6 @@
+- Spring, bulbs, yada yada yada
+- Wax dipped lily bulbs are terrible but I have memories of them greeting you in ShopRite. Never the Foodtown.
+- Aunt Tory got me into it -- an old casserole dish and some tiny lily bulbs. This came at the first time I saw my family, really took it to heart.
+- I went gangbusters and started looking at what other bulbs could grow in this way. Hyacinths. Animal Crossing. Gotta try. 
+- What a smell. Worth the funky water of bulbs that don't take it. Or maybe not, unsure since I was living alone with the bulbs. 
+- They still look great. The top 70% are universally recognized as "cool" but the bottom half are an entire universe in action.
